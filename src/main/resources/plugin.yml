@@ -1,0 +1,6 @@
+name: Echo
+version: '${project.version}'
+main: me.virfy.echo.Echo
+api-version: 1.19
+authors: [ virfy ]
+description: A 1.19.2 Spigot Plugin that announces damage dealt to the player, and also deals said damage to themselves.
